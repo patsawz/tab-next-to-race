@@ -24,6 +24,8 @@ Install [Polymer CLI](https://github.com/Polymer/polymer-cli) using
 
     npm install -g polymer-cli@next
 
+Then do an `npm install` to install all other dependencies!
+
 ### How to run the app
 
 This command serves the app at `http://127.0.0.1:8081` and provides basic URL
